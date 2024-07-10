@@ -2,8 +2,8 @@ package control.gerenciadoresMenu;
 
 import java.util.ArrayList;
 
-import control.gerenciadorasEntidade.gerenciadorDisciplinas;
-import control.gerenciadorasEntidade.gerenciadorProfessores;
+import control.gerenciadoresEntidade.gerenciadorDisciplinas;
+import control.gerenciadoresEntidade.gerenciadorProfessores;
 import control.menus.MenuProfessor;
 import entidades.disciplina;
 import entidades.professor;

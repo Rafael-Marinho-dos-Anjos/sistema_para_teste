@@ -1,4 +1,4 @@
-package control.gerenciadorasEntidade;
+package control.gerenciadoresEntidade;
 
 import java.security.KeyManagementException;
 import java.util.ArrayList;

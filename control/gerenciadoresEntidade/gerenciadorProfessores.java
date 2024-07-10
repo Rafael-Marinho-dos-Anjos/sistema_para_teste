@@ -1,4 +1,4 @@
-package control.gerenciadorasEntidade;
+package control.gerenciadoresEntidade;
 
 import java.util.ArrayList;
 import java.util.HashMap;

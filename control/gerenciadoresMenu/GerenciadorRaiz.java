@@ -1,8 +1,8 @@
 package control.gerenciadoresMenu;
 
-import control.gerenciadorasEntidade.gerenciadorAlunos;
-import control.gerenciadorasEntidade.gerenciadorDisciplinas;
-import control.gerenciadorasEntidade.gerenciadorProfessores;
+import control.gerenciadoresEntidade.gerenciadorAlunos;
+import control.gerenciadoresEntidade.gerenciadorDisciplinas;
+import control.gerenciadoresEntidade.gerenciadorProfessores;
 import control.menus.MenuPrincipal;
 import utils.SafeReading;
 import utils.ScannerHolder;
